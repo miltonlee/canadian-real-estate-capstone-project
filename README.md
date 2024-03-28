@@ -91,6 +91,6 @@ This data analysis focuses on the housing markets of Calgary and Edmonton aiming
 
 ## Contributors 🤝
 
-* **Kristyn Ho** [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kristyn-ho/) &nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
+* **Kristyn Ho** [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kristyn-ho/) &nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Alex-Kris)
 
 * **Milton Lee** [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/miltonlee1/) &nbsp;[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/miltonlee)
